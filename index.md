@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Chen, Yan-Ann
-subtitle: Assistant Professor @ Dept. of Computer Science and Engineering, Yuan Ze University, Taiwan
+title: Info.
+subtitle:
 ---
 
-### My Profile
+## Chen, Yan-Ann
+- Assistant Professor
+- Dept. of Computer Science and Engineering, Yuan Ze University, Taiwan
+- Email: chenya <i class="fa fa-at" aria-hidden="true"></i> saturn.yzu.edu.tw
+
