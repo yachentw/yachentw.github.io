@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laboratory
-subtitle:
+subtitle: Mobile Sensing and System
 ---
 
 
