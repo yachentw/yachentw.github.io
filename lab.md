@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Lab. Intro.
-subtitle: 
+title: Mobile Sensing and System
+subtitle: @ YZU CSE
 ---
-
-## Mobile Sensing and System Lab.
-- @ YZU CSE
 
