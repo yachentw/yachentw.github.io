@@ -23,6 +23,7 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
+  About me: "info"
   Publications: "pubs"
   Projects: "projects"
   Laboratory: "lab"

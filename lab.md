@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Laboratory
-subtitle: Mobile Sensing and System
+title: Mobile Sensing and System Lab.
+subtitle: @ YZU CSE
 ---
 
 

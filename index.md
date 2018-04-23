@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 陳彥安 Chen, Yan-Ann 
+title: News
 subtitle:
 ---
 
