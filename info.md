@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Personal Infomation
-subtitle:
 ---
 
 ## Chen, Yan-Ann

@@ -17,7 +17,7 @@ baseurl: ""
 title: Chen, Yan-Ann
 
 # Short description of your site
-description: Personal website
+description: Academic website
 
 # --- Navigation bar options --- #
 
@@ -103,7 +103,7 @@ author:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-69068098-2"
 
 # Google Tag Manager ID
 #gtm: ""
