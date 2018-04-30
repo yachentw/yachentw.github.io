@@ -16,6 +16,11 @@ subtitle:
 - Pervasive Computing
 - Intelligent Transportation System
 
+## Contacts
+- Email: chenya <i class="fa fa-at" aria-hidden="true"></i> saturn.yzu.edu.tw
+- Office: R1308, Yuan Ze Building I, Yuan Ze University, 135 Yuan-Tung Road, Chungli District, Taoyuan City, Taiwan.
+- Ext: +886-3-4638800#2357
+
 ## Education
 - Ph.D., Institute of Computer Science and Engineering, National Chiao Tung University, 2010.9 - 2016.3
 - M.S., Institute of Network Engineering, National Chiao Tung University, 2005.9 - 2007.6
@@ -39,6 +44,11 @@ subtitle:
 - 物聯網
 - 普及計算
 - 智慧交通系統
+
+## 聯絡資訊
+- Email: chenya <i class="fa fa-at" aria-hidden="true"></i> saturn.yzu.edu.tw
+- Office: 元智大學 元智一館 R1308
+- Ext: 03-4638800#2357
 
 ## 學歷
 - 國立交通大學資訊科學與工程研究所, 博士, 2010.09 - 2016.03
