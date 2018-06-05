@@ -5,6 +5,7 @@ subtitle:
 ---
 
 # Research Projects
+- PI, "Development of an Intelligent Robot for Social Interaction Analysis and Assistance by Integrating Multisensory Observations in IoT", MOST, Taiwan, 2018.06 - 2021.05
 - Co-PI, "Development of Advanced Technologies for Streaming Media
 Processing and Analytics and their Applications in ITS and
 Healthcare", MOST, Taiwan, 2017.02 - 2018.07.
