@@ -11,7 +11,7 @@ subtitle:
 4.  Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng, "A WSN-based Intelligent Light Control System Considering User Activities and Profiles", IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
-8. Bingjie Yuan, **Yan-Ann Chen**, and Shaozhen Ye, "A Lightweight Augmented Reality System to See-through Cars," International Congress on Advanced Applied Informatics, Jul, 2018.
+8. Bingjie Yuan, **Yan-Ann Chen**, and Shaozhen Ye, "A Lightweight Augmented Reality System to See-through Cars," International Congress on Advanced Applied Informatics (AAI), Jul, 2018.
 1.  C.-W. Wu, H.-Z. Yang, **Y.-A. Chen**, B. Ensa, Y. Ren, and Y.-C. Tseng, "Applying Machine Learning to Head Gesture Recognition using Wearables", International Conference on Awareness Science and Technology (iCAST), Nov. 2017.
 2.  D. Mungtavesinsuk, **Y.-A. Chen**, C.-W. Wu, B. Ensa, H.-W. Kao, and Y.-C. Tseng, "Using Nonverbal Information for Conversation Partners Inference by Wearable Devices," EAI International Conference on IoT as a Service (IoTaaS), Sep. 2017. [Best Paper]
 3.  Fang-Jing Wu, Matthias R. Brust, **Yan-Ann Chen**, and Tie Luo, "The Privacy Exposure Problem in Mobile Location-based Services", IEEE Global Communications Conference (GLOBECOM), 2016
