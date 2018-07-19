@@ -61,20 +61,14 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 Int'l Workshop on Wireless Ad hoc and Sensor Networks, 2008.
 
 ## Patents
-3. **Visible Light Communication System and Method**
-
-**Yan-Ann Chen**, Yi-Ting Chang, and Yu-Chee Tseng
-
+3. **Visible Light Communication System and Method**<br>
+**Yan-Ann Chen**, Yi-Ting Chang, and Yu-Chee Tseng<br>
 Taiwan Patent I544757 (issued 2016/08).
 
-2. **Automatic Light Modulation System and Method for Brightness Control**
-
-Meng-Shiuan Pan, **Yan-Ann Chen**, Ting-Chou Chien, Yueh-Feng Lee, and Yu-Chee Tseng
-
+2. **Automatic Light Modulation System and Method for Brightness Control**<br>
+Meng-Shiuan Pan, **Yan-Ann Chen**, Ting-Chou Chien, Yueh-Feng Lee, and Yu-Chee Tseng<br>
 China Patent CN101400207B (issued 2012/07, owned by ITRI).
 
-1. **Automatic Lighting Control System and Method**
-
-Meng-Shiuan Pan, **Yan-Ann Chen**, Ting-Chou Chien, Yueh-Feng Lee, and Yu-Chee Tseng
-
+1. **Automatic Lighting Control System and Method**<br>
+Meng-Shiuan Pan, **Yan-Ann Chen**, Ting-Chou Chien, Yueh-Feng Lee, and Yu-Chee Tseng<br>
 US Patent No. 7843353 (issued 2010/11, owned by ITRI), Taiwan Patent I357285 (issued 2012/01, owned by ITRI).
