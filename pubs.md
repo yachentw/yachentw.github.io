@@ -22,6 +22,10 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+10. **Using Smart Insoles and RGB Camera for Identifying Stationary Human Targets**<br>
+Sevendi Eldrige Rifki Poluan, and Yan-Ann Chen<br>
+IEEE International Conference on Awareness Science and Technology (iCAST), Oct. 2019.
+
 9. **Appliance Control by TDoA-based Localization and Gesture Recognition**<br>
 Ting-Hui Chiang, **Yan-Ann Chen**, Chun-Ting Chang, Ling-Jyh Chen, and Yu-Chee Tseng<br>
 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep. 2018.
@@ -33,7 +37,7 @@ International Congress on Advanced Applied Informatics (AAI), Jul. 2018.<br>
 
 7. **Applying Machine Learning to Head Gesture Recognition using Wearables**<br>
 C.-W. Wu, H.-Z. Yang, **Y.-A. Chen**, B. Ensa, Y. Ren, and Y.-C. Tseng<br>
-International Conference on Awareness Science and Technology (iCAST), Nov., 2017.
+IEEE International Conference on Awareness Science and Technology (iCAST), Nov. 2017.
 
 6. **Using Nonverbal Information for Conversation Partners Inference by Wearable Devices**<br>
 D. Mungtavesinsuk, **Y.-A. Chen**, C.-W. Wu, B. Ensa, H.-W. Kao, and Y.-C. Tseng<br>
