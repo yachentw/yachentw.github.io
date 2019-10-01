@@ -4,10 +4,10 @@ import socket
 
 PORT = 8080
 class showipHTTPHandler(http.server.BaseHTTPRequestHandler):
-    def do_HEAD(self):
+    def do_HEAD(s):
         s.send_response(200)
         s.send_header("Content-type", "text/html")
-    def do_GET(self):
+    def do_GET(s):
         s.send_response(200)
         s.send_header("Content-type", "text/html")
         s.end_headers()
