@@ -34,7 +34,7 @@ def main():
     global ec2
     global key
     # read user data from the file
-    userfd = open('userdata.txt', 'r')
+    userfd = open('userdata', 'r')
     userdata = userfd.read()
 
     if ec2 == None:
