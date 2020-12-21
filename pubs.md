@@ -23,15 +23,15 @@ IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
 12. **SalesSense: Product Recognition by Analyzing Sales Pitch for Smart Retailing**<br>
-Cheng-Pu Chung Wu, Po-Ru Sung, and Yan-Ann Chen<br>
+Cheng-Pu Chung Wu, Po-Ru Sung, and **Yan-Ann Chen**<br>
 International Computer Symposium (ICS), Dec. 2020.
 
 11. **A Framework for a Multisensory IoT System Based on Service-oriented Architecture**<br>
-Sevendi Eldrige Rifki Poluan, and Yan-Ann Chen<br>
+Sevendi Eldrige Rifki Poluan, and **Yan-Ann Chen**<br>
 Asia-Pacific Network Operations and Management Symposium (APNOMS), Sep. 2020.
 
 10. **Using Smart Insoles and RGB Camera for Identifying Stationary Human Targets**<br>
-Sevendi Eldrige Rifki Poluan, and Yan-Ann Chen<br>
+Sevendi Eldrige Rifki Poluan, and **Yan-Ann Chen**<br>
 IEEE International Conference on Awareness Science and Technology (iCAST), Oct. 2019.
 
 9. **Appliance Control by TDoA-based Localization and Gesture Recognition**<br>
