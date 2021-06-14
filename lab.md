@@ -4,5 +4,5 @@ title: Lab. Intro.
 subtitle: 
 ---
 
-## Mobile Sensing and Systems
+## Mobile Sensing and Systems (msslab)
 - at YZU CSE
