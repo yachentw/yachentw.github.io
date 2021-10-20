@@ -22,6 +22,19 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+15. **FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**<br>
+Ming-Lun Lee, Han-Chang Chou, and **Yan-Ann Chen**<br>
+International Conference on Mobile Computing and Ubiquitous Networking (ICMU), Nov. 2021.
+
+14. **A Similarity-based Framework of Participant Selections for Federated Learning in Edge Computing**<br>
+**Yan-Ann Chen**<br>
+Wireless and Optical Communications Conference (WOCC), Oct. 2021.
+<span style="color:red">[invited speaker]</span>
+
+13. **WITSE: A Testbed for Performance Evaluation of TaiSEIA 101 over Wireless Protocols**<br>
+**Yan-Ann Chen** and Shao-Yi Chen<br>
+Asia-Pacific Network Operations and Management Symposium (APNOMS), Sep. 2021.
+
 12. **SalesSense: Product Recognition by Analyzing Sales Pitch for Smart Retailing**<br>
 Cheng-Pu Chung Wu, Po-Ru Sung, and **Yan-Ann Chen**<br>
 International Computer Symposium (ICS), Dec. 2020.
