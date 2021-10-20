@@ -29,7 +29,7 @@ International Conference on Mobile Computing and Ubiquitous Networking (ICMU), N
 14. **A Similarity-based Framework of Participant Selections for Federated Learning in Edge Computing**<br>
 **Yan-Ann Chen**<br>
 Wireless and Optical Communications Conference (WOCC), Oct. 2021.<br>
-<span style="color:red">[invited speaker]</span>
+<span style="color:red">[Invited Speaker]</span>
 
 13. **WITSE: A Testbed for Performance Evaluation of TaiSEIA 101 over Wireless Protocols**<br>
 **Yan-Ann Chen** and Shao-Yi Chen<br>
