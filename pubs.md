@@ -22,6 +22,14 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+17. **An Adaptive Clustering Scheme for Client Selections in Communication-efficient Federated Learning**<br>
+**Yan-Ann Chen** and Guan-Lin Chen<br>
+IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Aug. 2023.
+
+16. **Learning Multi-scale Representations with Single-stream Network for Video Retrieval**<br>
+Chia-Hui Wang, Yu-Chee Tseng, Ting-Hui Chiang, and **Yan-Ann Chen**<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Jun. 2023.
+
 15. **FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**<br>
 Ming-Lun Lee, Han-Chang Chou, and **Yan-Ann Chen**<br>
 International Conference on Mobile Computing and Ubiquitous Networking (ICMU), Nov. 2021.
