@@ -22,6 +22,10 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+18. **On Deep Learning-Based Indoor Positioning and Uncertainty Estimation**<br>
+Szu-Wei Chen, Ting-Hui Chiang, Yu-Chee Tseng, and **Yan-Ann Chen**<br>
+IEEE Global Communications Conference (GLOBECOM), Dec. 2023.
+
 17. **An Adaptive Clustering Scheme for Client Selections in Communication-efficient Federated Learning**<br>
 **Yan-Ann Chen** and Guan-Lin Chen<br>
 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Aug. 2023.
