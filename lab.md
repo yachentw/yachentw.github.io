@@ -36,13 +36,13 @@ subtitle:
 
 ## Graduated Master Student (In-service)
 1. Jai-Wei Wu
-Thesis: Design and Implement of an AI-powered Desktop Coffee Bean Selection System
+- Thesis: Design and Implement of an AI-powered Desktop Coffee Bean Selection System
 2. Jian-Cheng Gan
-Thesis: Acoustic-based Placement Recognition of Smart Device using Deep Learning
+- Thesis: Acoustic-based Placement Recognition of Smart Device using Deep Learning
 3. Tsung-Yen Ho
-Thesis: Design and Implementation of a Gesture Recognition System using Light Sensors
+- Thesis: Design and Implementation of a Gesture Recognition System using Light Sensors
 4. Shao-Yi Chen
-Thesis: Research on the Performance Evaluation of Wireless Network Protocols under TaiSEIA 101
+- Thesis: Research on the Performance Evaluation of Wireless Network Protocols under TaiSEIA 101
 
 
 
