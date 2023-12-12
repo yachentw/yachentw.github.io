@@ -4,9 +4,9 @@ title: Lab. Intro.
 subtitle: 
 ---
 
-## Mobile Sensing and Systems (msslab)
+# Mobile Sensing and Systems (msslab)
 
-# Graduated Master Student (Full-time)
+## Graduated Master Student (Full-time)
 1. An-An Li
 Thesis: Adaptive Annotations of Density Estimation using Deep Learning in Dense Object Counting
 2. Hui-Rou Zhoug
@@ -34,7 +34,7 @@ Thesis: A Lightweight Augmented Reality System to See-through Car
 13. Tai-Lin Kuo
 Thesis: A Critical-spot Aware Approach for Prediction of Hard Brake Maneuver
 
-# Graduated Master Student (In-service)
+## Graduated Master Student (In-service)
 1. Jai-Wei Wu
 Thesis: Design and Implement of an AI-powered Desktop Coffee Bean Selection System
 2. Jian-Cheng Gan
