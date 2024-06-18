@@ -5,23 +5,30 @@ subtitle:
 ---
 
 ## Journal
-1. **Inference of Conversational Relationship by Cooperative Acoustic Sensing in Smartphone Networks**<br>
+5. **Generating Social-aware Locations for a Robot in a Human Group by Image Generation Using Adversarial Learning**<br>
+Sevendi Eldrige Rifki Poluan, and **Yan-Ann Chen**<br>
+IEEE Access, Early access, June 2024.
+
+4. **Inference of Conversational Relationship by Cooperative Acoustic Sensing in Smartphone Networks**<br>
 **Yan-Ann Chen**, Ji Chen, and Yu-Chee Tseng<br>
 IEEE Transactions on Mobile Computing, Vol. 15, No. 6, pp. 1387-1400, June 2016.
 
-2. **A Framework for Simultaneous Message Broadcasting Using CDMA-based Visible Light Communications**<br>
+3. **A Framework for Simultaneous Message Broadcasting Using CDMA-based Visible Light Communications**<br>
 **Yan-Ann Chen**, Yi-Ting Chang, Yu-Chee Tseng, and Wen-Tsuen Chen<br>
 IEEE Sensors Journal, Vol. 15, No. 12, pp.6819-6827, Dec. 2015.
 
-3. **Controlling the Fluid Factors of an Environment by Sensor and Actuator Networks**<br>
+2. **Controlling the Fluid Factors of an Environment by Sensor and Actuator Networks**<br>
 **Yan-Ann Chen**, Lun-Wu Yeh, and Yu-Chee Tseng<br>
 Pervasive and Mobile Computing, Vol. 27, pp. 106-115, April 2016.
 
-4. **A WSN-based Intelligent Light Control System Considering User Activities and Profiles**<br>
+1. **A WSN-based Intelligent Light Control System Considering User Activities and Profiles**<br>
 Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<br>
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+19. **Acoustic Camera-based Anomaly Detection for Wind Turbines**<br>
+Ming-Lun Lee, Yuan-Heng Sun, Ya-Chu Chi, **Yan-Ann Chen**, Yao-Long Tsai, and Yu-Chee Tseng<br>
+
 18. **On Deep Learning-Based Indoor Positioning and Uncertainty Estimation**<br>
 Szu-Wei Chen, Ting-Hui Chiang, Yu-Chee Tseng, and **Yan-Ann Chen**<br>
 IEEE Global Communications Conference (GLOBECOM), Dec. 2023.
