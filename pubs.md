@@ -7,7 +7,7 @@ subtitle:
 ## Journal
 5. **Generating Social-aware Locations for a Robot in a Human Group by Image Generation Using Adversarial Learning**<br>
 Sevendi Eldrige Rifki Poluan, and **Yan-Ann Chen**<br>
-IEEE Access, Early access, June 2024.
+IEEE Access, Vol. 12, pp. 85681-85693, June 2024.
 
 4. **Inference of Conversational Relationship by Cooperative Acoustic Sensing in Smartphone Networks**<br>
 **Yan-Ann Chen**, Ji Chen, and Yu-Chee Tseng<br>
