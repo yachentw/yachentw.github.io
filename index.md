@@ -10,9 +10,9 @@ subtitle:
 - Email: chenya <i class="fa fa-at" aria-hidden="true"></i> saturn.yzu.edu.tw
 
 ## Research Interests
+- Pervasive Intelligence
 - Edge Artificial Intelligence
 - Internet of Things
-- Mobile Sensing
 - Cyber-Physical System
 
 ## Contacts
@@ -26,10 +26,10 @@ subtitle:
 - Email: chenya <i class="fa fa-at" aria-hidden="true"></i> saturn.yzu.edu.tw
 
 ## 研究領域
+- 普適智慧
 - 邊緣運算人工智慧
 - 物聯網應用與通訊
-- 穿戴式感測系統
-- 智慧整合感控系統
+- 物智慧整合感控系統
 
 
 ## 聯絡資訊
