@@ -26,6 +26,10 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+20. **Abnormal Vibration Detection by 2D Digital Image Correlation Analysis**<br>
+Yuan-Heng Sun, Hao-Chun Yue, **Yan-Ann Chen**, Cheng-Kuan Lin, and Yu-Chee Tseng<br>
+IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-ASIA), Oct. 2024.
+
 19. **Acoustic Camera-based Anomaly Detection for Wind Turbines**<br>
 Ming-Lun Lee, Yuan-Heng Sun, Ya-Chu Chi, **Yan-Ann Chen**, Yao-Long Tsai, and Yu-Chee Tseng<br>
 IEEE International Workshop on Smart Service Systems (SmartSys), June 2024.<br>
