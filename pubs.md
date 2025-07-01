@@ -26,6 +26,10 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+21. **Semi-Self Representation Learning for Crowdsourced WiFi Trajectories**<br>
+Yu-Lin Kuo, Yu-Chee Tseng, Ting-Hui Chiang, and **Yan-Ann Chen**<br>
+IEEE Vehicular Technology Conference (VTC2024-Spring), Jun. 2025.
+
 20. **Abnormal Vibration Detection by 2D Digital Image Correlation Analysis**<br>
 Yuan-Heng Sun, Hao-Chun Yue, **Yan-Ann Chen**, Cheng-Kuan Lin, and Yu-Chee Tseng<br>
 IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-ASIA), Oct. 2024.
@@ -108,17 +112,17 @@ IEEE Asia-Pacific Wireless Communications Symposium (APWCS), 2012.
 
 1. **Design and Implementation of a WSN-Based Intelligent Light Control System**<br>
 Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<br>
-Int'l Workshop on Wireless Ad hoc and Sensor Networks, 2008.
+International Conference on Distributed Computing Systems Workshop (ICDCSW), 2008.
 
 ## Patents
 3. **Visible Light Communication System and Method**<br>
 **Yan-Ann Chen**, Yi-Ting Chang, and Yu-Chee Tseng<br>
-Taiwan Patent I544757 (issued 2016/08).
+Taiwan Patent I544757 (granted 2016/08).
 
 2. **Automatic Light Modulation System and Method for Brightness Control**<br>
 Meng-Shiuan Pan, **Yan-Ann Chen**, Ting-Chou Chien, Yueh-Feng Lee, and Yu-Chee Tseng<br>
-China Patent CN101400207B (issued 2012/07, owned by ITRI).
+China Patent CN101400207B (granted 2012/07, owned by ITRI).
 
 1. **Automatic Lighting Control System and Method**<br>
 Meng-Shiuan Pan, **Yan-Ann Chen**, Ting-Chou Chien, Yueh-Feng Lee, and Yu-Chee Tseng<br>
-US Patent No. 7843353 (issued 2010/11, owned by ITRI), Taiwan Patent I357285 (issued 2012/01, owned by ITRI).
+US Patent No. 7843353 (granted 2010/11, owned by ITRI), Taiwan Patent I357285 (granted 2012/01, owned by ITRI).
