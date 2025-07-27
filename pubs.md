@@ -28,7 +28,7 @@ IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 ## International Conference
 21. **Semi-Self Representation Learning for Crowdsourced WiFi Trajectories**<br>
 Yu-Lin Kuo, Yu-Chee Tseng, Ting-Hui Chiang, and **Yan-Ann Chen**<br>
-IEEE Vehicular Technology Conference (VTC2024-Spring), Jun. 2025.
+IEEE Vehicular Technology Conference (VTC2025-Spring), Jun. 2025.
 
 20. **Abnormal Vibration Detection by 2D Digital Image Correlation Analysis**<br>
 Yuan-Heng Sun, Hao-Chun Yue, **Yan-Ann Chen**, Cheng-Kuan Lin, and Yu-Chee Tseng<br>
