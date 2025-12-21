@@ -26,6 +26,15 @@ Meng-Shiuan Pan, Lun-Wu Yeh, **Yan-Ann Chen**, Yu-Hsuan Lin, and Yu-Chee Tseng<b
 IEEE Sensors Journal, Vol. 8, No. 10, pp. 1710-21, Oct. 2008.
 
 ## International Conference
+23. **Dynamic Participation in Federated Learning: Benchmarks and a Knowledge Pool Plugin**<br>
+Ming-Lun Lee, Fu-Shiang Yang, Cheng-Kuan Lin, **Yan-Ann Chen**, Chih-Yu Lin, Yu-Chee Tseng<br>
+Workshop on Federated Learning for Critical Applications (FCLA), Jan. 2026.<br>
+Workshop of AAAI 2026.
+
+22. **Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation**<br>
+Wei-Chia Chang and **Yan-Ann Chen**<br>
+Conference of Open Innovations Association (FRUCT), Nov. 2025.
+
 21. **Semi-Self Representation Learning for Crowdsourced WiFi Trajectories**<br>
 Yu-Lin Kuo, Yu-Chee Tseng, Ting-Hui Chiang, and **Yan-Ann Chen**<br>
 IEEE Vehicular Technology Conference (VTC2025-Spring), Jun. 2025.
