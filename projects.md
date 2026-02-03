@@ -5,12 +5,11 @@ subtitle:
 ---
 
 # Research Projects
-- PI, "Development of a System for Analyzing Dynamics of Crowd and Vehicles in AVIoT", MOST, Taiwan, 2021.08 - current
-- PI, "Development of an Intelligent Robot for Social Interaction Analysis and Assistance by Integrating Multisensory Observations in IoT", MOST, Taiwan, 2018.06 - 2021.09
-- Co-PI, "Development of Advanced Technologies for Streaming Media
-Processing and Analytics and their Applications in ITS and
-Healthcare", MOST, Taiwan, 2017.02 - 2018.07.
+- PI, "Development of a System for Analyzing Dynamics of Crowd and Vehicles in AVIoT", MOST, Taiwan, 2021.08 - 2025.01.
+- PI, "Development of an Intelligent Robot for Social Interaction Analysis and Assistance by Integrating Multisensory Observations in IoT", MOST, Taiwan, 2018.06 - 2021.09.
+- Co-PI, "Development of Advanced Technologies for Streaming Media Processing and Analytics and their Applications in ITS and Healthcare", MOST, Taiwan, 2017.02 - 2018.07.
 
 # Industrial Projects
+- Co-PI, "Research on the Application of AI-Generated Technology and Multi-Modal Recognition in Vehicle Image Identification," Intelligent Transportation Society of Taiwan and FETC International, 2025.1 - 2025.11.
 - PI, "無線射頻訊號收送於ARM嵌入式系統之韌體實作與效能增進研究", GAHOEE Ltd, 2017.09 - 2018.08.
 

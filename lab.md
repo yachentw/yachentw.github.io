@@ -3,14 +3,15 @@ layout: page
 title: Lab. Intro.
 subtitle: 
 ---
+## Pervasive Perception and Computing Systems (PPCS) Lab @ National Taipei University of Technology
 
-# Mobile Sensing and Systems (msslab)
+## Mobile Sensing and Systems (MSS) Lab @ Yuan Ze University
 
-## Graduated PhD Student
+### Graduated PhD Student
 1. Sevendi Eldrige Rifki Poluan
 - Dissertation: Research on Social-aware Robot in an Indoor Environment
 
-## Graduated Master Student (Full-time)
+### Graduated Master Student (Full-time)
 15. Yi-Chien Wu
 - Thesis: Client Attributes-aware Selection using Reinforcement Learning in Federated Learning
 14. Ming-Wei Yi
@@ -42,7 +43,7 @@ subtitle:
 1. Tai-Lin Kuo
 - Thesis: A Critical-spot Aware Approach for Prediction of Hard Brake Maneuver
 
-## Graduated Master Student (In-service)
+### Graduated Master Student (In-service)
 5. Hung-Wen Lin
 - Thesis: Enhancing Ship Recognition in Infrared Images through Style-Transformed Image Augmentation
 4. Jai-Wei Wu
