@@ -33,7 +33,7 @@ Workshop of AAAI 2026.
 
 22. **Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation**<br>
 Wei-Chia Chang and **Yan-Ann Chen**<br>
-Conference of Open Innovations Association (FRUCT), Nov. 2025.
+Conference of the Open Innovations Association (FRUCT), Nov. 2025.
 
 21. **Semi-Self Representation Learning for Crowdsourced WiFi Trajectories**<br>
 Yu-Lin Kuo, Yu-Chee Tseng, Ting-Hui Chiang, and **Yan-Ann Chen**<br>

@@ -29,6 +29,7 @@ subtitle:
 - B.S., Dept. of Computer Science and Infomation Engineering, National Dong Hwa University, Taiwan, 2001.9 - 2005.6
 
 ## Working Experience
+- Assistant Professor, Yuan Ze Univerisity, Taiwan, 2017.2 - 2026.1
 - Technical Consultant, GAHOEE Ltd (an IoT startup), Taiwan, 2016.4 - 2017.1
 - Internship (Research Assistant), Institute for Infocomm Research (I2R), A*STAR, Singapore, 2015.7 - 2015.11
 - Protocol Software Engineer, Compal Communication Inc., Taipei, Taiwan, 2008.8 - 2010.11
@@ -45,15 +46,9 @@ subtitle:
 - 邊緣人工智慧
 - 多模態智慧感測
 - 智慧物聯網
-- 物智慧整合感控系統
+- 智慧整合感控系統
 
 ## 聯絡資訊
 - Email: chenya <i class="fa fa-at" aria-hidden="true"></i> ntut.edu.tw
 - Office: 臺北科技大學綜合科館205-1室
 - Ext: 02-27712171#2209
-
-
-## 學歷
-- 國立交通大學資訊科學與工程研究所, 博士, 2010.09 - 2016.03
-- 國立交通大學網路工程研究所, 碩士, 2005.09 ~ 2007.06
-- 國立東華大學資訊工程學系, 學士, 2001.09 - 2005.06
