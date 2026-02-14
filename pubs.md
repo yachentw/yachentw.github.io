@@ -5,6 +5,10 @@ subtitle:
 ---
 
 ## Journal
+6. **Cross-Modal Matching of Lower-Body Skeleton and Insole Pressure for Identity Recognition**<br>
+Sevendi Eldrige Rifki Poluan, and **Yan-Ann Chen**<br>
+IEEE Sensors Letters, Vol. 10, No. 3, March 2026.
+
 5. **Generating Social-aware Locations for a Robot in a Human Group by Image Generation Using Adversarial Learning**<br>
 Sevendi Eldrige Rifki Poluan, and **Yan-Ann Chen**<br>
 IEEE Access, Vol. 12, pp. 85681-85693, June 2024.
