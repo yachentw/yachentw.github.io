@@ -1,40 +1,33 @@
 ---
 layout: page
 title: News
-subtitle:
+subtitle: Latest updates on research, publications, teaching, and academic activities
 ---
 
-## Chen, Yan-Ann
-- Assistant Professor
-- Department of Electronic Engineering, National Taipei University of Technology, Taiwan
+# News
 
-## Research Interests
-- Pervasive Intelligence
-- Edge Artificial Intelligence
-- Multimodal Intelligent Sensing
-- Artificial Intelligent of Things
-- Cyber-Physical System
+Latest updates on research, publications, projects, teaching, and academic activities.
 
+---
 
-## Contacts
-- Email: chenya <i class="fa fa-at" aria-hidden="true"></i> ntut.edu.tw
-- Office: Room 205-1, Complex Building, National Taipei University of Techonology
-- Ext: +886-2-27712171#2209
+## Pinned
 
+### Recruiting Students
+We welcome motivated M.S. students and undergraduate researchers interested in pervasive intelligence, edge AI, multimodal intelligent sensing, AIoT, and cyber-physical systems.
 
-## 陳彥安
-- 國立臺北科技大學電子工程系
-- 助理教授
+---
 
-## 研究領域
-- 普適智慧
-- 邊緣運算人工智慧
-- 多模態智慧感測
-- 智慧物聯網
-- 智慧整合感控系統
+## 2026
 
+- **2026-03** Our paper on cross-modal matching was published in **IEEE Sensors Letters**.
+- **2026-02** Joined the Department of Electronic Engineering, National Taipei University of Technology, as Assistant Professor.
 
-## 聯絡資訊
-- Email: chenya <i class="fa fa-at" aria-hidden="true"></i> ntut.edu.tw
-- Office: 臺北科技大學綜合科館205-1室
-- Ext: 02-27712171#2209
+---
+
+## Links
+
+- [About Me](/info)
+- [Publications](/publications)
+- [Projects](/projects)
+- [Laboratory](/laboratory)
+- [Teaching](/teaching)
