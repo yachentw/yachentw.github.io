@@ -12,6 +12,12 @@ subtitle:
 - Dissertation: Research on Social-aware Robot in an Indoor Environment
 
 #### Graduated Master Student (Full-time)
+18. Cheng-Ying Chen
+- Thesis: Leveraging Large Language Models for Multi-Intersection Traffic Signal Control
+17. Yi-Chun Lin
+- Thesis: Deep Reinforcement Learning Based Model Selections on an Edge Device Considering Latency and Accuracy
+16. Chin Fan-Chiang
+- Thesis: A Study of Imputation Methods for Missing Values in Multi-Modal Federated Learning
 15. Yi-Chien Wu
 - Thesis: Client Attributes-aware Selection using Reinforcement Learning in Federated Learning
 14. Ming-Wei Yi
@@ -44,6 +50,8 @@ subtitle:
 - Thesis: A Critical-spot Aware Approach for Prediction of Hard Brake Maneuver
 
 #### Graduated Master Student (In-service)
+6. Bo-Sheng Liao
+-Thesis: Pseudo-Label Guided Federated Learning for Handling Missing Modalities
 5. Hung-Wen Lin
 - Thesis: Enhancing Ship Recognition in Infrared Images through Style-Transformed Image Augmentation
 4. Jai-Wei Wu
