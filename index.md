@@ -4,12 +4,6 @@ title: News
 subtitle: Latest updates on research, publications, teaching, and academic activities
 ---
 
-# News
-
-Latest updates on research, publications, projects, teaching, and academic activities.
-
----
-
 ## Pinned
 
 ### Recruiting Students
@@ -29,5 +23,5 @@ We welcome motivated M.S. students and undergraduate researchers interested in p
 - [About Me](/info)
 - [Publications](/publications)
 - [Projects](/projects)
-- [Laboratory](/laboratory)
+- [Laboratory](/lab)
 - [Teaching](/teaching)
