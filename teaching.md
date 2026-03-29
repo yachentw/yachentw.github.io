@@ -4,38 +4,68 @@ title: Teaching
 subtitle:
 ---
 
-## Artificial Intelligence of Things
+I have taught courses in artificial intelligence, IoT, embedded systems, wireless networking, cloud computing, and programming.
+
+---
+
+## AI and Data
+
+### Intelligent Applications of Internet of Things
+物聯網智慧應用
+- 2026-Spring @ NTUT ECE
+
+### Artificial Intelligence of Things
 智慧物聯網
-- 2023-Fall @ YZUCSE
+- 2025-Fall, 2024-Fall, 2023-Fall @ YZU CSE
 
-## Artificial Intelligence
-人工智慧
-- 2023-Fall @ YZUCSE
-
-## Introduction to Wireless Internet
-無線網路概論
-- 2019-Spring, 2020-Spring, 2021-Spring, 2022-Spring @ YZU CSE
-
-## Introduction to Artificial Intelligence
+### Introduction to Artificial Intelligence
 人工智慧概論
-- 2020-Spring, 2021-Spring, 2022-Spring @ YZU CSE
+- 2025-Spring, 2024-Spring, 2023-Spring, 2022-Spring, 2021-Spring, 2020-Spring @ YZU CSE
 
-## Cloud Computing and Services
-雲端運算與服務
-- 2017-Fall, 2018-Fall, 2019-Fall, 2023-Fall @ YZUCSE
+### Artificial Intelligence (Graduate Level)
+人工智慧
+- 2023-Fall @ YZU CSE
 
-## Internet of Things and Microprocessor System Design
+
+---
+
+## IoT and Embedded Systems
+### Internet of Things (Graduate Level)
+物聯網
+- 2025-Fall, 2024-Fall @ YZU CSE
+
+### Internet of Things and Microprocessor System Design
 物聯網與微處理機系統設計
-- 2020-Fall, 2021-Fall, 2022-Fall @ YZUCSE
+- 2022-Fall, 2021-Fall, 2020-Fall @ YZU CSE
 
-## Embedded System Design and Practice
+### Embedded System Design and Practice
 內嵌式系統設計與實習
-- 2019-Fall, 2020-Fall, 2021-Fall, 2022-Fall @ YZUIN
+- 2022-Fall, 2021-Fall, 2020-Fall, 2019-Fall  @ YZU IN
 
-## Microprocessor System Design
+### Microprocessor System Design
 微處理機系統設計
-- 2017-Spring, 2018-Spring, 2019-Spring, 2020-Spring @ YZUCSE
+- 2020-Spring, 2019-Spring, 2018-Spring, 2017-Spring  @ YZU CSE
 
-## Computer Programming II
+---
+
+## Networking and Cloud Computing
+
+### Introduction to Mobile and Wireless Systems (Graduate Level)
+行動與無線系統概論
+- 2026-Spring @ NTUT ECE
+
+### Introduction to Wireless Internet
+無線網路概論
+- 2025-Spring, 2024-Spring, 2023-Spring, 2022-Spring, 2021-Spring, 2020-Spring, 2019-Spring  @ YZU CSE
+
+### Cloud Computing and Services
+雲端運算與服務
+- 2023-Fall, 2019-Fall, 2018-Fall, 2017-Fall  @ YZU CSE
+
+---
+
+## Programming
+
+### Computer Programming II
 程式設計（二）
-- 2017-Fall, 2018-Fall, 2019-Fall @ YZUCSE
+- 2019-Fall, 2018-Fall, 2017-Fall @ YZU CSE
