@@ -21,7 +21,7 @@ The PPCS Lab is currently being established at National Taipei University of Tec
 
 The following thesis topics are selected examples from previous student supervision and research mentoring, including work conducted in the Mobile Sensing and Systems (MSS) Lab at Yuan Ze University. They are organized by research area to illustrate the evolving directions and project scope related to the lab.
 
-<details>
+<details markdown="1">
 <summary><strong>Federated Learning and Edge Intelligence</strong></summary>
 
 - **2025** — *Pseudo-Label Guided Federated Learning for Handling Missing Modalities* (Bo-Sheng Liao, M.S., YZU, in-service)
@@ -34,7 +34,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Intelligent Transportation and Vehicular Systems</strong></summary>
 
 - **2025** — *Leveraging Large Language Models for Multi-Intersection Traffic Signal Control* (Cheng-Ying Chen, M.S., YZU)
@@ -46,7 +46,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Human-centered Computing and Social Intelligence</strong></summary>
 
 - **2024** — *Research on Social-aware Robot in an Indoor Environment* (Sevendi Eldrige Rifki Poluan, Ph.D., YZU)
@@ -57,7 +57,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Multimodal Sensing and Intelligent Systems</strong></summary>
 
 - **2024** — *Enhancing Ship Recognition in Infrared Images through Style-Transformed Image Augmentation* (Hung-Wen Lin, M.S., YZU, in-service)
@@ -75,7 +75,7 @@ The following thesis topics are selected examples from previous student supervis
 
 以下整理歷年指導之大學部專題題目，主題涵蓋 AIoT、邊緣智慧、電腦視覺、智慧交通、機器人與無人系統、人本感測與應用型人工智慧系統。
 
-<details>
+<details markdown="1">
 <summary><strong>AIoT、邊緣智慧與智慧感知</strong></summary>
 
 - 邊緣裝置上應用光感測於手勢辨識系統（2022）
@@ -86,7 +86,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>電腦視覺與智慧交通</strong></summary>
 
 - 針對交通情境之開放詞彙多模態異常偵測與輕量化分析（2026）
@@ -98,7 +98,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>機器人與無人系統</strong></summary>
 
 - 透過 VLM 開發具有主持撲克遊戲能力的社交機器人（2025）
@@ -110,7 +110,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>人本感測與應用型人工智慧</strong></summary>
 
 - 藉由模態對齊訓練之手語即時辨識系統（2026）
