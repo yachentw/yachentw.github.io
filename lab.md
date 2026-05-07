@@ -70,6 +70,7 @@ The following thesis topics are selected examples from previous student supervis
 
 </details>
 
+---
 
 ### 歷年大學部專題題目
 
